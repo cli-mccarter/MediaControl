@@ -33,6 +33,9 @@
     <Reference Include="kCura.Agent">
       <HintPath>C:\Program Files\kCura Corporation\Relativity SDK\Agents\Client\kCura.Agent.dll</HintPath>
     </Reference>
+    <Reference Include="Relativity.API">
+      <HintPath>C:\Program Files\kCura Corporation\Relativity SDK\Relativity API\Lib\Relativity.API.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
